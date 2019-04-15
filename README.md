@@ -16,11 +16,11 @@ Problems that I'm focussing on are:
 4. Offers functionality to schedule routine jobs.
 5. Easily customizable, flexible, easy-to-use, and fast.
 
-# Note:
+# Note
 
 You can watch video (without audio, it's just for reference) that has been uploaded for step-by-step instruction to perform analytics using AWS. I have considered NYC Taxi dataset (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) as an example to demonstrate analytics using AWS, where I have performed data harmonization (converting from csv to parquet data). I have also attached the architecture that I have designed to create this analytics stack along with the visual examples from Quicksight.
 
-# Data Description:
+# Data Description
 
 The yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). The trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data.
 
