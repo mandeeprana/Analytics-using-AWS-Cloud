@@ -28,5 +28,5 @@ The For-Hire Vehicle (“FHV”) trip records include fields capturing the dispa
 
 # Video
 
-<video src="AWS_Analytics_VideoTour.mov" width="320" height="200" controls preload></video>
+<video src="vid_part1.mov" width="320" height="200" controls preload></video>
 
